@@ -32,9 +32,19 @@ second-largest restaurant chain after McDonald's, with 22,621 locations globally
   </ol>
 
 ### Landing page
-
-
-
+   <img src="https://miro.medium.com/max/700/1*KhA5_iWUN02BY33xEluVxQ.jpeg"/>
+###Sign Up page
+  <img src="https://miro.medium.com/max/700/1*VAwe_pIfuMzqGHybU4KC1g.jpeg"/>
+###Login page
+  <img src="https://miro.medium.com/max/700/1*2l18VaWqYMToUFcBJ5zkqA.jpeg"/>
+###Product page  
+   <img src="https://miro.medium.com/max/700/1*Y-JsnAfQUBTlD9dVoVl7XA.jpeg"/>
+###About Page 
+<img src="https://miro.medium.com/max/700/1*n4sDG9fs1ifZMbqlfHbHIA.jpeg"/>
+###Payment page  
+  <img src="https://miro.medium.com/max/700/1*dR5MmPrdhDBfNs-MHO3IvA.jpeg"/>
+  
+  
 ### Medium Link
 https://medium.com/@shashank.shalabh909/how-i-completed-my-journey-of-creating-a-clone-of-e-commerce-website-using-html-css-javascript-fedd416d9d18
 
