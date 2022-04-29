@@ -30,10 +30,10 @@ second-largest restaurant chain after McDonald's, with 22,621 locations globally
      <li>Payment page</li>
   </ol>
   
-### Team Members
+### Landing Page
    <img src="https://miro.medium.com/max/700/1*KhA5_iWUN02BY33xEluVxQ.jpeg"/>
 ---
-###Sign Up page
+### Signup Page
   <br>
   This is our sign up page , here we successfully done the signing part to creat an account in KFC.
   <img src="https://miro.medium.com/max/700/1*VAwe_pIfuMzqGHybU4KC1g.jpeg"/>
