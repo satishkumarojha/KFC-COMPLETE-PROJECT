@@ -32,7 +32,7 @@ second-largest restaurant chain after McDonald's, with 22,621 locations globally
 ---  
  <h3>Landing  Page</h3>
   <br>
-   This is our sign up page
+   This is our landing page
   <br>
   <br>
    <img src="https://miro.medium.com/max/700/1*KhA5_iWUN02BY33xEluVxQ.jpeg"/>
