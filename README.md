@@ -31,6 +31,10 @@ second-largest restaurant chain after McDonald's, with 22,621 locations globally
   </ol>
 ---  
  <h3>Landing  Page</h3>
+  <br>
+   This is our sign up page
+  <br>
+  <br>
    <img src="https://miro.medium.com/max/700/1*KhA5_iWUN02BY33xEluVxQ.jpeg"/>
 ---
  <h3>Signup Page</h3>
@@ -63,7 +67,6 @@ second-largest restaurant chain after McDonald's, with 22,621 locations globally
   ---  
  <h3>Payment Page</h3>  
    <br>
-  
   This is a section where we are putting our details information out our self ,i.e our contact details and later the payment gate way so that we can do payment online.
   <br>  
   <br>
