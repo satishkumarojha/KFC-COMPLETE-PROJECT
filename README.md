@@ -5,7 +5,7 @@ second-largest restaurant chain after McDonald's, with 22,621 locations globally
 
 ### Team Members
 
-- **[salove](https://github.com/salove16)**
+- **[Salove](https://github.com/salove16)**
 - **[Huzaifa Banegar](https://github.com/HuzaifaBanegar)**
 - **[Satish Kumar Ojha](https://github.com/satishkumarojha/)** 
 - **[Mayuri Warale](https://github.com/mayuri3598r)**
